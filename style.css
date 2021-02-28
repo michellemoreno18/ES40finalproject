@@ -4,7 +4,7 @@ body{
 }
 
 #header{
-    background: linear-gradient ( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('./img/hero.jpg');
+    background: linear-gradient ( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('./img/home-hero.jpg');
     -webkit-background-size: cover;
     -moz-background-size:  cover;
     -o-background-size: cover;
@@ -27,7 +27,7 @@ body{
     background-size: cover;
     background-size: cover;
     height: 600px;
-    color: #E7D7C5;
+    color: #A44A3F;
     text-align: center;
     font-size: 30px;
     line-height: 600px;
@@ -35,14 +35,14 @@ body{
 }
 
 #header-study{
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('./img/conference.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('./img/reserve-hero.jpg');
     -webkit-background-size: cover;
     -moz-background-size:  cover;
     -o-background-size: cover;
     background-size: cover;
     background-size: cover;
     height: 600px;
-    color: #E7D7C5;
+    color: #A44A3F;
     text-align: center;
     font-size: 30px;
     line-height: 600px;
@@ -50,14 +50,14 @@ body{
 }
 
 #header-shop{
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('./img/shop.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('./img/shop-hero.jpg');
     -webkit-background-size: cover;
     -moz-background-size:  cover;
     -o-background-size: cover;
     background-size: cover;
     background-size: cover;
     height: 600px;
-    color: #E7D7C5;
+    color: #A44A3F;
     text-align: center;
     font-size: 30px;
     line-height: 600px;
@@ -65,14 +65,14 @@ body{
 }
 
 #header-events{
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('./img/events.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('./img/events-hero.jpg');
     -webkit-background-size: cover;
     -moz-background-size:  cover;
     -o-background-size: cover;
     background-size: cover;
     background-size: cover;
     height: 600px;
-    color: #E7D7C5;
+    color: #A44A3F;
     text-align: center;
     font-size: 30px;
     line-height: 600px;
@@ -91,7 +91,7 @@ h1{
 }
 #navbar a{
     text-decoration: #a44a3f;
-    background-color: #c7ac92;
+    background-color: #a44a3f;
     display: block;
     width: 159px;
     padding-top: 10px;
@@ -214,7 +214,7 @@ h3{
   }
 
   footer{
-      background-color: #666;
+      background-color: #a44a3f;
       height: 70px;
   }
 
@@ -238,17 +238,17 @@ h3{
   }
   
   .fa-facebook {
-    background: #666;
+    background: #a44a3f;
     color: white;
   }
   
   .fa-twitter {
-    background: #666;
+    background: #a44a3f;
     color: white;
   }
   
   .fa-google {
-    background:#666;
+    background:#a44a3f;
     color: white;
   }
 
@@ -270,7 +270,7 @@ h3{
   
   input[type=submit] {
     width: 100%;
-    background-color: Sienna;
+    background-color: #A44A3F;
     color: white;
     padding: 14px 20px;
     margin: 8px 0;
