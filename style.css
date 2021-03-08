@@ -3,6 +3,12 @@ body{
     background-color: #94A89A
 }
 
+#logo{
+  margin-right: auto;
+  margin-left: auto;
+  width: 300px;
+}
+
 #header{
     background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('./img/home-hero.jpg');
     -webkit-background-size: cover;
@@ -130,6 +136,24 @@ h2{
     font-weight: 300;
     color: white;
 }
+
+#second-paragraph{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    color: white;
+}
+
+#third-paragraph{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    color: white;
+  }
+
+  #fourth-paragraph{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    color: white;
+  }
 
 /* COLUMNS */
 * {
@@ -360,3 +384,5 @@ h3{
     margin-left: auto;
     padding-bottom: 30px;
   }
+
+  
