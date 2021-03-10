@@ -1,12 +1,12 @@
 body{
     margin: 0px;
-    background-color: #94A89A
+    background-color: #6b705c
 }
 
 #logo{
   margin-right: auto;
   margin-left: auto;
-  width: 300px;
+  width: 310px;
 }
 
 #header{
@@ -84,12 +84,28 @@ body{
     line-height: 600px;
     text-shadow: 0px 0px 10px #ccc;
 }
+
+#header-resources{
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('./img/resources-hero.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size:  cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-size: cover;
+    height: 600px;
+    color: #A44A3F;
+    text-align: center;
+    font-size: 30px;
+    line-height: 600px;
+    text-shadow: 0px 0px 10px #ccc;
+}
+
 h1{
     font-family: 'Oswald', sans-serif;
 }
 
 #navbar{
-    Width: 800px;
+    Width: 810px;
     box-shadow: 0px 5px 7px #E7D7C5;
     margin-left: auto;
     margin-right: auto;
@@ -99,7 +115,7 @@ h1{
     text-decoration: #a44a3f;
     background-color: #a44a3f;
     display: block;
-    width: 159px;
+    width: 130px;
     padding-top: 10px;
     padding-bottom: 10px;
     text-align: center;
@@ -128,7 +144,7 @@ h2{
     color: #fff;
 }
 #title{
-    padding-top: 10px;
+    padding-top: 15px;
     text-align: center;
 }
 #first-paragraph{
@@ -153,7 +169,13 @@ h2{
     font-family: 'Oswald', sans-serif;
     font-weight: 300;
     color: white;
+  
   }
+#fifth-paragraph{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    color: white;
+}
 
 /* COLUMNS */
 * {
@@ -385,4 +407,40 @@ h3{
     padding-bottom: 30px;
   }
 
+  /* About Us */
+  .resources{
+    width: 770px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  #window{
+    width: 770px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  #electric{
+    width: 770px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  #paint{
+    width: 770px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  #smoking{
+    width: 770px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  #literacy{
+    width: 770px;
+    margin-right: auto;
+    margin-left: auto;
+  }
   
