@@ -4,13 +4,14 @@ body{
 }
 
 #logo{
+  padding-top: 150px;
   margin-right: auto;
   margin-left: auto;
   width: 310px;
 }
 
 #header{
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('./img/home-hero.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('./img/library-hero.jpg');
     -webkit-background-size: cover;
     -moz-background-size:  cover;
     -o-background-size: cover;
@@ -135,7 +136,15 @@ h1{
     width:800px;  
     margin-right: auto;
     margin-left: auto;
+    padding-bottom: 30px;
+}
 
+.shop{
+    padding-top: 50px;
+    width:800px;  
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 30px;
 }
 
 h2{
@@ -343,6 +352,7 @@ h3{
 
   /* STUDY SPACES  */
   .study-room{
+      padding-top: 30px;
       margin-right: auto;
       margin-left: auto;
       width: 900px;
@@ -396,6 +406,7 @@ h3{
 
   /* Events and Videos */
   .events{
+    padding-top: 2px;
     width: 600px;
     margin-right: auto;
     margin-left: auto;
@@ -415,6 +426,7 @@ h3{
 
   /* About Us */
   .resources{
+    padding-top: 50px;
     width: 770px;
     margin-right: auto;
     margin-left: auto;
